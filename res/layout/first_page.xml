@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="@layout/first_page">
+
+    <TextView
+        android:id="@+id/txtFpage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="IN HURRY?"
+        android:paddingTop="50dp"
+        android:textAlignment="center"
+        android:includeFontPadding="true"
+        android:textColor="#FFFDFEFF"
+        android:textSize="60px"
+        android:paddingLeft="134dp"
+        android:paddingRight="50dp"/>
+    <TextView
+        android:id="@+id/txt2Fpage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="THINK"
+        android:paddingTop="85dp"
+        android:textAlignment="center"
+        android:includeFontPadding="true"
+        android:textColor="#FFFDFEFF"
+        android:textSize="60px"
+        android:paddingLeft="150dp"
+        android:paddingRight="50dp"/>
+    <TextView
+        android:id="@+id/txt3Fpage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GET SMART!"
+        android:paddingTop="120dp"
+        android:textAlignment="center"
+        android:includeFontPadding="true"
+        android:textColor="#FFFDFEFF"
+        android:textSize="60px"
+        android:paddingLeft="120dp"
+        android:paddingRight="50dp"/>
+    <TextView
+        android:id="@+id/txt4Fpage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="USE SAFETY FROM THE START"
+        android:paddingTop="155dp"
+        android:textAlignment="center"
+        android:includeFontPadding="true"
+        android:textColor="#FFFDFEFF"
+        android:textSize="60px"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"/>
+    <TextView
+        android:id="@+id/txt5Fpage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CHECK FOR THE VACANT SLOT"
+        android:paddingTop="210dp"
+        android:textAlignment="center"
+        android:includeFontPadding="true"
+        android:textColor="#FFFDFEFF"
+        android:textSize="60px"
+        android:paddingLeft="50dp"
+        android:paddingRight="50dp"/>
+    <TextView
+        android:id="@+id/txt6Fpage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BEFORE YOU REACH"
+        android:paddingTop="275dp"
+        android:textAlignment="center"
+        android:includeFontPadding="true"
+        android:textColor="#FFFDFEFF"
+        android:textSize="60px"
+        android:paddingLeft="90dp"
+        android:paddingRight="50dp"/>
+</RelativeLayout>
